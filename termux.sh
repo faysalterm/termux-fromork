@@ -68,6 +68,9 @@ pkg install git python2
 pip2 install requests
 git clone https://github.com/hatakecnk/CNK-ReverseIP
 #--------
+#ngrok
+git clone https://github.com/inconshreveable/ngrok.git
+####################
 #Tool CNK-SSH
 #Auto Create SSH Account
 apt update && apt upgrade -y
